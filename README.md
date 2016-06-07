@@ -1,4 +1,4 @@
-# ChekCaseWrods-Validator-Annotation
+# ChekCaseWords-Validator-Annotation
 Annotation CheckCaseWords for validate upper and lower case and words pattern
 
 
