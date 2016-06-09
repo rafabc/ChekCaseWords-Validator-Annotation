@@ -2,7 +2,7 @@
 Annotation CheckCaseWords for validate upper and lower case and words pattern
 
 
-If we want validate a field that must be Upper o Lower case we can use this annotation, like this:
+If we want validate a field that must be Upper or Lower case and must be a word we can use this annotation, like this:
 
 ######this is upper case validation example
 ```java
